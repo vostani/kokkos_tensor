@@ -1,0 +1,3 @@
+[submodule "python_kokkos_tests"]
+	path = python_kokkos_tests
+	url = ./gpu/python_kokkos_tests/
